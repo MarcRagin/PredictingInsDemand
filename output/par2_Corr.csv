@@ -1,0 +1,8 @@
+="",="par2corrout",="",="",="",="",=""
+="",="\gamma_{std}^{+}",="\beta_{std}^{+}",="\hat{\kappa}_{std}",="\gamma_{std}^{-}",="\beta_{std}^{-}",="\hat{\lambda}_{std}"
+="Utility curvature gains",="1.000",=".",=".",=".",=".",="."
+="Probability weighting gains",="0.288",="1.000",=".",=".",=".",="."
+="Certainty preference",="-0.043",="0.039",="1.000",=".",=".",="."
+="Utility curvature losses",="-0.230",="0.008",="-0.045",="1.000",=".",="."
+="Probability weighting losses",="-0.002",="0.338",="-0.007",="0.249",="1.000",="."
+="Loss aversion index",="-0.292",="-0.258",="-0.004",="0.195",="-0.101",="1.000"
